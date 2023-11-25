@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.16">
+	<ConfigVersions>
+		<Metadata name="Catalog.Должности" id="83fd9684-7ef7-443a-8676-1f13032b7118" configVersion="3acb00367bfc8449a28d72941295385100000000"/>
+		<Metadata name="Catalog.ФизическиеЛица" id="84953809-ed8a-4880-8256-fe9f80fbfee1" configVersion="01be040b1dffd94dbac9560bc45b46eb00000000">
+			<Metadata name="Catalog.ФизическиеЛица.Attribute.Имя" id="07bfd7c8-22c0-42a5-b931-d5d9f2eea89d"/>
+			<Metadata name="Catalog.ФизическиеЛица.Attribute.ДатаРождения" id="2799e227-186d-4f17-a34f-8819414c6391"/>
+			<Metadata name="Catalog.ФизическиеЛица.Attribute.Отчество" id="87993f8f-0d3d-41c1-9cee-8c0f13693db5"/>
+			<Metadata name="Catalog.ФизическиеЛица.Attribute.Паспорт_Серия" id="c01a602a-13dd-42b4-a9dd-c8848d05672f"/>
+			<Metadata name="Catalog.ФизическиеЛица.Attribute.Паспорт_Номер" id="c7333dfc-8960-4f7b-bf92-327c79077fd5"/>
+			<Metadata name="Catalog.ФизическиеЛица.Attribute.Фамилия" id="f2f541b2-d5be-49f4-92cc-200d1d6a3384"/>
+		</Metadata>
+		<Metadata name="Catalog.ФизическиеЛица.Form.ФормаЭлемента" id="01601814-3e33-4320-9466-edee4f793607" configVersion="b732cc608b483944814037ad505f119400000000"/>
+		<Metadata name="Catalog.ФизическиеЛица.Form.ФормаЭлемента.Form" id="01601814-3e33-4320-9466-edee4f793607.0" configVersion="633859cfb2c6654cae6b54d8066c352400000000"/>
+		<Metadata name="Catalog.ФизическиеЛица.ManagerModule" id="84953809-ed8a-4880-8256-fe9f80fbfee1.3" configVersion="dc2f1286b30fb24488b350703e50bbd700000000"/>
+		<Metadata name="Catalog.ФизическиеЛица.ObjectModule" id="84953809-ed8a-4880-8256-fe9f80fbfee1.0" configVersion="eab9f305b176eb4db47c11b2279cd7cd00000000"/>
+		<Metadata name="Configuration.Конфигурация" id="28d62c55-70e1-4d1b-bf95-2fa2931d9a14" configVersion="efa901c2da647145b74f12a6e39f4cdd00000000"/>
+		<Metadata name="Configuration.Конфигурация.ClientApplicationInterface" id="e8c29484-3517-48e0-a3b6-5a3043ab269d.b" configVersion="ae1b9675b1304b44b3d147d970523df700000000"/>
+		<Metadata name="Document.ПриемНаРаботу" id="0ccfd13d-05b4-4104-b5c6-d5f0f744a083" configVersion="75c2c8d0961ecd4a9aadbbabb70f211f00000000">
+			<Metadata name="Document.ПриемНаРаботу.Attribute.Должность" id="a48ce5ca-4946-4b9d-8850-b14f98b3370c"/>
+			<Metadata name="Document.ПриемНаРаботу.Attribute.ДатаПриемаНаРаботу" id="dc827a0f-4e78-4d01-b1b6-72ef52704c29"/>
+			<Metadata name="Document.ПриемНаРаботу.Attribute.ФизическоеЛицо" id="e3c793bf-b096-49db-8ac5-f35f314f74ea"/>
+		</Metadata>
+		<Metadata name="Language.Русский" id="188c6068-034b-4c3f-8876-a883c21caac1" configVersion="60afcc6a6ceb6d4d996ee76594c2578200000000"/>
+		<Metadata name="Report.СотрудникиКомпании" id="3cb974fb-2af8-471d-88a7-42ab3ac7f1bf" configVersion="97bdd65358e3be45a0789530deed59cd00000000"/>
+		<Metadata name="Report.СотрудникиКомпании.Template.ОсновнаяСхемаКомпоновкиДанных" id="5108df12-ba36-4635-a948-b20531f58286" configVersion="bd07af2dadfd3740a0914fa11fe4ec4400000000"/>
+		<Metadata name="Report.СотрудникиКомпании.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="5108df12-ba36-4635-a948-b20531f58286.0" configVersion="45b2a16cc960574a98d0b6e017cfc2db00000000"/>
+		<Metadata name="Subsystem.Кадры" id="a289aac7-694e-4efd-8f79-5bc6682192a2" configVersion="91a0c435111ab345bc0a4844f5a8845b00000000"/>
+		<Metadata name="Subsystem.Кадры.Subsystem.Документы" id="8949961a-156e-451f-900c-d3dfff4ae14b" configVersion="6c323374a80db041a39cd12e58ee61fc00000000"/>
+		<Metadata name="Subsystem.Кадры.Subsystem.Справочники" id="0c43d5fe-626f-4703-86d6-99d0337e50a4" configVersion="f4b577b4c578804d9c2ffaad8b997eed00000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>

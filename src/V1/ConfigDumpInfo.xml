@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.16">
+	<ConfigVersions>
+		<Metadata name="Catalog.ФизическиеЛица" id="84953809-ed8a-4880-8256-fe9f80fbfee1" configVersion="835bf875d357de43bb4124f540e2212c00000000">
+			<Metadata name="Catalog.ФизическиеЛица.Attribute.ДатаРождения" id="2799e227-186d-4f17-a34f-8819414c6391"/>
+			<Metadata name="Catalog.ФизическиеЛица.Attribute.ПаспортСерияНомер" id="c01a602a-13dd-42b4-a9dd-c8848d05672f"/>
+			<Metadata name="Catalog.ФизическиеЛица.Attribute.ФИО" id="f2f541b2-d5be-49f4-92cc-200d1d6a3384"/>
+		</Metadata>
+		<Metadata name="Catalog.ФизическиеЛица.ManagerModule" id="84953809-ed8a-4880-8256-fe9f80fbfee1.3" configVersion="ff9b21fec1dd544fba2378957706eefa00000000"/>
+		<Metadata name="Configuration.Конфигурация" id="28d62c55-70e1-4d1b-bf95-2fa2931d9a14" configVersion="fd71bfbe774fa74b9b1f049642300b0400000000"/>
+		<Metadata name="Configuration.Конфигурация.ClientApplicationInterface" id="e8c29484-3517-48e0-a3b6-5a3043ab269d.b" configVersion="ae1b9675b1304b44b3d147d970523df700000000"/>
+		<Metadata name="Document.ПриемНаРаботу" id="0ccfd13d-05b4-4104-b5c6-d5f0f744a083" configVersion="adc5f7595fe9bc428037aa230227752500000000">
+			<Metadata name="Document.ПриемНаРаботу.Attribute.Должность" id="a48ce5ca-4946-4b9d-8850-b14f98b3370c"/>
+			<Metadata name="Document.ПриемНаРаботу.Attribute.ДатаПриемаНаРаботу" id="dc827a0f-4e78-4d01-b1b6-72ef52704c29"/>
+			<Metadata name="Document.ПриемНаРаботу.Attribute.ФизическоеЛицо" id="e3c793bf-b096-49db-8ac5-f35f314f74ea"/>
+		</Metadata>
+		<Metadata name="Language.Русский" id="188c6068-034b-4c3f-8876-a883c21caac1" configVersion="60afcc6a6ceb6d4d996ee76594c2578200000000"/>
+		<Metadata name="Report.СотрудникиКомпании" id="3cb974fb-2af8-471d-88a7-42ab3ac7f1bf" configVersion="97bdd65358e3be45a0789530deed59cd00000000"/>
+		<Metadata name="Report.СотрудникиКомпании.Template.ОсновнаяСхемаКомпоновкиДанных" id="5108df12-ba36-4635-a948-b20531f58286" configVersion="bd07af2dadfd3740a0914fa11fe4ec4400000000"/>
+		<Metadata name="Report.СотрудникиКомпании.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="5108df12-ba36-4635-a948-b20531f58286.0" configVersion="45b2a16cc960574a98d0b6e017cfc2db00000000"/>
+		<Metadata name="Subsystem.Кадры" id="a289aac7-694e-4efd-8f79-5bc6682192a2" configVersion="0016009d4bcf1b47ab95aeab9bb718af00000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
